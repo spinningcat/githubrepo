@@ -8,6 +8,9 @@ Backend And Frontend i am the man !!!!
 i am also musician !!!
 =======
 something
+<<<<<<< HEAD
 anything
 other thing
 >>>>>>> localdevelopmentsbranch
+=======
+>>>>>>> parent of 9f20711... anything
