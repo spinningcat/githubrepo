@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello i am computer scientist !!!
 I know how to use GIT YAY !!!
 I know more about TECH !!!
@@ -5,3 +6,8 @@ YEAH I am full stack developer !!!
 And i love metal music !!!
 Backend And Frontend i am the man !!!!
 i am also musician !!!
+=======
+something
+anything
+other thing
+>>>>>>> localdevelopmentsbranch
