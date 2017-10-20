@@ -9,8 +9,11 @@ i am also musician !!!
 =======
 something
 <<<<<<< HEAD
+<<<<<<< HEAD
 anything
 other thing
 >>>>>>> localdevelopmentsbranch
+=======
+>>>>>>> parent of 9f20711... anything
 =======
 >>>>>>> parent of 9f20711... anything
